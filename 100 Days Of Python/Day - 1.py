@@ -1,0 +1,13 @@
+# print("Hello World", 7)
+# print(5)
+# print("Bye")
+# print(17*13)
+
+print("Johnny! Johnny!")
+print("Yes Papa!")
+print("Eating sugar?!")
+print("No Papa!")
+print("Telling lies?!")
+print("No Papa!")
+print("Open your mouth!")
+print("Hahaha!")
